@@ -26,12 +26,11 @@
 * [Förklaring på alla himla filer som kommer i React-projekt](https://www.youtube.com/watch?v=VfhRDGhAFi0)
 
 ## Övningar:
-* [Grupprojekt]
-## Slides:
-
+* [Grupprojekt]()
+* 
 ## Lektionsrepon:
 * Måndag - FM: Repetition av alla koncepten och genomgång av Github Projects. Få [projektet]() och gruppindelning. EM: Handledning.
-* Tisdag - Heldag med handledning.
-* Onsdag - Heldag med handledning.
-* Torsdag - Heldag med handledning.
-* Fredag - Code review mellan grupperna. Handledning.
+* Tisdag - FM: Uppstart och handledning. EM: handledning.
+* Onsdag - FM: Uppstart och handledning. EM: handledning.
+* Torsdag - FM: Uppstart och handledning. EM: handledning.
+* Fredag - FM: Code review mellan grupperna. EM: Handledning.
