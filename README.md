@@ -4,7 +4,8 @@
 
 ## Mål för veckan:
 1. Packa ihop påsen med React-hooksen vi lärt oss
-2. Påbörja det stora grupparbetet
+2. Lära oss Github Projects för att hantera större projekt.
+3. Påbörja det stora grupparbetet
 
 ## Material
 #### E-Learning:
@@ -29,7 +30,7 @@
 ## Slides:
 
 ## Lektionsrepon:
-* Måndag - FM: Repetition av alla koncepten. Få [projektet]() och gruppindelning. EM: Handledning.
+* Måndag - FM: Repetition av alla koncepten och genomgång av Github Projects. Få [projektet]() och gruppindelning. EM: Handledning.
 * Tisdag - Heldag med handledning.
 * Onsdag - Heldag med handledning.
 * Torsdag - Heldag med handledning.
