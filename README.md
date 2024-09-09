@@ -26,10 +26,10 @@
 * [Förklaring på alla himla filer som kommer i React-projekt](https://www.youtube.com/watch?v=VfhRDGhAFi0)
 
 ## Övningar:
-* [Grupprojekt]()
-* 
+* [Grupprojekt](https://github.com/Lexicon-Frontend-2024/grupprojekt-react/)
+  
 ## Lektionsrepon:
-* Måndag - FM: Repetition av alla koncepten och genomgång av Github Projects. Få [projektet]() och gruppindelning. EM: Handledning.
+* Måndag - FM: Repetition av alla koncepten och genomgång av Trello. Få [projektet](https://github.com/Lexicon-Frontend-2024/grupprojekt-react/) och gruppindelning. EM: Handledning.
 * Tisdag - FM: Uppstart och handledning. EM: handledning.
 * Onsdag - FM: Uppstart och handledning. EM: handledning.
 * Torsdag - FM: Uppstart och handledning. EM: handledning.
