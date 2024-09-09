@@ -30,7 +30,7 @@
   
 ## Lektionsrepon:
 * Måndag - FM: Genomgång av Trello. Få [projektet](https://github.com/Lexicon-Frontend-2024/grupprojekt-react/) och gruppindelning. EM: Handledning. (Maja och Niklas)
-* Tisdag - FM: Uppstart och handledning. EM: handledning. (Maja)
-* Onsdag - FM: Uppstart och handledning. EM: handledning. (FM: Annika eller Jesper, EM: Maja)
-* Torsdag - FM: Uppstart och handledning. EM: handledning. (FM: Annika eller Jesper, EM: Maja)
-* Fredag - FM: Code review mellan grupperna. EM: Handledning. (Niklas)
+* Tisdag - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (Maja)
+* Onsdag - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (FM: Annika eller Jesper, EM: Maja)
+* Torsdag - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (FM: Annika eller Jesper, EM: Maja)
+* Fredag - FM: Code review mellan grupperna. EM: Handledning. 0.5h APL-sök. (Niklas)
