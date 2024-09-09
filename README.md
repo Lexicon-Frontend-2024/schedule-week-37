@@ -4,7 +4,7 @@
 
 ## Mål för veckan:
 1. Packa ihop påsen med React-hooksen vi lärt oss
-2. Lära oss Github Projects för att hantera större projekt.
+2. Lära oss om verktyg för att hantera större projekt, så som Trello.
 3. Påbörja det stora grupparbetet
 
 ## Material
