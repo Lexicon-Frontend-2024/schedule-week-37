@@ -29,8 +29,8 @@
 * [Grupprojekt](https://github.com/Lexicon-Frontend-2024/grupprojekt-react/)
   
 ## Lektionsrepon:
-* Måndag - FM: Genomgång av Trello. Få [projektet](https://github.com/Lexicon-Frontend-2024/grupprojekt-react/) och gruppindelning. EM: Handledning. (Maja och Niklas)
-* Tisdag - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (Maja)
-* Onsdag - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (FM: Annika eller Jesper, EM: Maja)
-* Torsdag - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (FM: Annika eller Jesper, EM: Maja)
-* Fredag - FM: Code review där er grupp paras ihop med en annan. Första 20 minuterna läser ni bara den andre gruppens kod, efter det ska ni diskutera det ni läst er in på. Efter er code review med andra gruppen ska ni vara i er grupp och göra en [retrospective](https://www.scrum.org/resources/what-is-a-sprint-retrospective). EM: Handledning. 0.5h APL-sök. (Niklas)
+* **Måndag** - FM: Genomgång av Trello. Få [projektet](https://github.com/Lexicon-Frontend-2024/grupprojekt-react/) och gruppindelning. EM: Handledning. (Maja och Niklas)
+* **Tisdag** - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (Maja)
+* **Onsdag** - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (FM: Annika eller Jesper, EM: Maja)
+* **Torsdag** - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (FM: Annika eller Jesper, EM: Maja)
+* **Fredag** - FM: Code review där er grupp paras ihop med en annan. Första 20 minuterna läser ni bara den andre gruppens kod, efter det ska ni diskutera det ni läst er in på. Efter er code review med andra gruppen ska ni vara i er grupp och göra en [retrospective](https://www.scrum.org/resources/what-is-a-sprint-retrospective). EM: Handledning. 0.5h APL-sök. (Niklas)
